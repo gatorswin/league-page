@@ -27,7 +27,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
    {
      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "name": "James Stocker",
+    "name": "Ben Marks",
      
     "location": "Pittsburgh", // (optional)
     "bio": "Lorem ipsum...",
@@ -49,7 +49,7 @@ export const managers = [
      },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Will Gladden",
+     "name": "Jake Champagne",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Brooklyn", // (optional)
     "bio": "Lorem ipsum...",
@@ -71,7 +71,7 @@ export const managers = [
     },
    {
     "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Ben Marks",
+     "name": "Nick Wojnar",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Pittsburgh-Hershey", // (optional)
       "bio": "Lorem ipsum...",
@@ -93,7 +93,7 @@ export const managers = [
     },
    {
     "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Jake Champagne",
+     "name": "Adam Marks",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "West Coast Baby", // (optional)
       "bio": "Lorem ipsum...",
@@ -115,7 +115,7 @@ export const managers = [
   },
    {
     "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Nick Wojnar",
+     "name": "Bobby Stocker",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Buffalo", // (optional)
       "bio": "Lorem ipsum...",
@@ -159,7 +159,7 @@ export const managers = [
   },
    {
     "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Bobby Stocker",
+     "name": "Travis Thomas",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Pittsburgh", // (optional)
       "bio": "Lorem ipsum...",
@@ -181,7 +181,7 @@ export const managers = [
   },
    {
     "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Travis Thomas",
+     "name": "James Stocker",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "New Port Ritchie", // (optional)
       "bio": "Lorem ipsum...",
@@ -225,7 +225,7 @@ export const managers = [
   },
    {
     "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Tyler Noebe",
+     "name": "Will Gladden",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Butt Hole of America", // (optional)
       "bio": "Lorem ipsum...",
