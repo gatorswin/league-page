@@ -269,7 +269,7 @@ export const managers = [
   },
    {
     "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "name": "Max Sessions",
+     "name": "Tyler Noebe",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Seatle-DC area", // (optional)
       "bio": "Lorem ipsum...",
